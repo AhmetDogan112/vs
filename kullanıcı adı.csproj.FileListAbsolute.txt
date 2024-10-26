@@ -1,0 +1,10 @@
+C:\Users\AHMET CİHAN\Source\Repos\kullanıcı adı\kullanıcı adı\bin\Debug\kullanıcı adı.exe.config
+C:\Users\AHMET CİHAN\Source\Repos\kullanıcı adı\kullanıcı adı\bin\Debug\kullanıcı adı.exe
+C:\Users\AHMET CİHAN\Source\Repos\kullanıcı adı\kullanıcı adı\bin\Debug\kullanıcı adı.pdb
+C:\Users\AHMET CİHAN\Source\Repos\kullanıcı adı\kullanıcı adı\obj\Debug\kullanıcı adı.csproj.AssemblyReference.cache
+C:\Users\AHMET CİHAN\Source\Repos\kullanıcı adı\kullanıcı adı\obj\Debug\kullanıcı_adı.Form1.resources
+C:\Users\AHMET CİHAN\Source\Repos\kullanıcı adı\kullanıcı adı\obj\Debug\kullanıcı_adı.Properties.Resources.resources
+C:\Users\AHMET CİHAN\Source\Repos\kullanıcı adı\kullanıcı adı\obj\Debug\kullanıcı adı.csproj.GenerateResource.cache
+C:\Users\AHMET CİHAN\Source\Repos\kullanıcı adı\kullanıcı adı\obj\Debug\kullanıcı adı.csproj.CoreCompileInputs.cache
+C:\Users\AHMET CİHAN\Source\Repos\kullanıcı adı\kullanıcı adı\obj\Debug\kullanıcı adı.exe
+C:\Users\AHMET CİHAN\Source\Repos\kullanıcı adı\kullanıcı adı\obj\Debug\kullanıcı adı.pdb
